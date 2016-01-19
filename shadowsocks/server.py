@@ -3,6 +3,7 @@ import sys
 import thread
 import server_pool
 import db_transfer
+##sed add##
 
 #def test():
 #    thread.start_new_thread(DbTransfer.thread_db, ())
